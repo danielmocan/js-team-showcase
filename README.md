@@ -15,3 +15,6 @@ We have a strong [team culture](https://github.com/FortechRomania/js-team-showca
 We believe in mentoring, teaching and sharing information. One of our training activities is the [junior development program](https://github.com/FortechRomania/js-team-showcase/tree/master/we-train/junior-development-program), but we are also involved in running [nodeschool workshops](https://github.com/FortechRomania/js-team-showcase/tree/master/we-train/node-school) in **Cluj**.
 
 Also, to keep track of the ever changing technology spectrum we consume allot of programming related [articles](https://github.com/FortechRomania/js-team-showcase/blob/master/we-recommend/daily-bookmarks.md), [books](https://github.com/FortechRomania/js-team-showcase/blob/master/we-recommend/books.md) and [videos](https://github.com/FortechRomania/js-team-showcase/blob/master/we-recommend/talks.md).
+
+### We Are: CakeForBreakfast
+Since the dawn of times we have a tradition to celebrate any type of anniversary with cake. Other teams celebrate with pizza, we love cake. We do this in the morning so the name of the team was a natural pick.
