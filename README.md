@@ -18,5 +18,5 @@ Also, to keep track of the ever changing technology spectrum we consume allot of
 
 ### We Are: CakeForBreakfast
 
-  <img src="team-logo.png" width='250px' style='float: left;'/>
-  Since the dawn of times we have a tradition to celebrate any type of anniversary with cake. Other teams celebrate with pizza, we love cake. We do this in the morning so the name of the team was a natural pick.
+Since the dawn of times we have a tradition to celebrate any type of anniversary with cake. Other teams celebrate with pizza, we love cake. We do this in the morning so the name of the team was a natural pick.
+<img src="team-logo.png" width='250px'/>
